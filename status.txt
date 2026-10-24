@@ -1,3 +1,4 @@
 cs2: 1
 fivem: 1
 roblox: 1
+spoofer fivem: 1
